@@ -1,0 +1,8 @@
+.superpowers/
+docs/superpowers/
+.claude/
+.DS_Store
+
+# raw working inputs (build produces canonical artifacts)
+/public_key.asc
+
